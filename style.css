@@ -38,7 +38,7 @@ body {
   height: 135px;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid #16a34a;
+  border: 4px solid #F5F5DC;
   margin-bottom: 16px;
 }
 
@@ -51,7 +51,7 @@ h1 {
 
 h2 {
   font-size: 17px;
-  color: #16a34a;
+  color: #F5F5DC;
   font-weight: 600;
   margin-bottom: 18px;
 }
@@ -59,7 +59,7 @@ h2 {
 .line {
   width: 80px;
   height: 3px;
-  background: #16a34a;
+  background: #F5F5DC;
   margin: 0 auto 20px;
   border-radius: 20px;
 }
@@ -71,7 +71,7 @@ h2 {
 p {
   font-size: 15px;
   line-height: 1.6;
-  color: #4b5563;
+  color: #F5F5DC;
   margin-bottom: 24px;
 }
 
