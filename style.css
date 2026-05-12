@@ -51,7 +51,7 @@ h1 {
 
 h2 {
   font-size: 17px;
-  color: #F5F5DC;
+  color: black;
   font-weight: 600;
   margin-bottom: 18px;
 }
@@ -59,7 +59,7 @@ h2 {
 .line {
   width: 80px;
   height: 3px;
-  background: #F5F5DC;
+  background: black;
   margin: 0 auto 20px;
   border-radius: 20px;
 }
@@ -71,12 +71,12 @@ h2 {
 p {
   font-size: 15px;
   line-height: 1.6;
-  color: #F5F5DC;
+  color: black;
   margin-bottom: 24px;
 }
 
 p span {
-  color: #16a34a;
+  color: grey;
   font-weight: 700;
 }
 
